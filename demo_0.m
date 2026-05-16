@@ -1,0 +1,9 @@
+x=100
+y=5
+z1=x+y
+z2=y-x
+z3=x*y
+z4=x/y
+z5=sqrt(x)
+z6=abs(z2)
+z7=mod(z6,z5)
